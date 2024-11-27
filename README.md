@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bipinpal12
 - 👀 I’m interested in learning about tech & space_techonology.
-- 🌱 I’m currently learning Frontend development..
+- 🌱 I’m currently learning Development..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me| Email_me:bipinpal541@gmail.com |LinkedIn:www.linkedin.com/in/bipin-pal-7834352b8
 - 😄 Pronouns: ...
